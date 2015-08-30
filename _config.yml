@@ -1,19 +1,18 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
 relative_permalinks: true
 
 
 # Setup
 title: Stuart Codes
-tagline: 'Stuart\'s Coding Journey'
+tagline: "Stuart's Coding Journey"
 description: > # this means to ignore newlines until "baseurl:"
   Learner by nature.  Actuary.  Practicing contrarian.  Aficionado of startups,
   venture capital, and fin tech.  Pen addict. Hobbyist photographer.
   Noob programmer.
-baseurl: "" # the subpath of your site, e.g. /blog/
 url: http://stuart.codes # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
 paginate: 5
 
 # About/contact
